@@ -1,5 +1,8 @@
-# About here
-I like A36plus, it is a great radio, I use it to learn radio, and research more functions, hope to help more friends.
+# Initiate cooperation
+
+Talkpod A36plus has ultra-wide transceiver band, 1.44 inch color screen, ultra-low power consumption and other characteristics, better playability, is a very good walkie-talkie, he should not be buried, I hope that more people join the research work, together to explore more possibilities.
+
+拓朋A36plus擁有超寬的收發頻段、1.44寸彩屏、超低功耗等特點，可玩性更好，是個非常棒的對講機，他不應該被埋沒，我希望有更多人加入研究工作，一起挖掘更多可能性。
 
 ---
 
