@@ -30,4 +30,4 @@ Link:https://github.com/Jamie793/A36Plus_Radio
 # Usage method
 
 Use the official tool A36plus Bootloader, select kdhx, and you're done
-Link:[https://github.com/VR2TE/Talkpod-A36plus-Firmware/blob/main/A36plus%20Bootloader%20En.zip](https://github.com/VR2TE/Talkpod-A36plus-Firmware/blob/main/A36plus%20Bootloader%20En.zip)
+Link:[https://github.com/VR2TE/Talkpod-A36plus-Firmware/blob/main/A36plus%20Bootloader%20En.zip](https://github.com/VR2TE/Talkpod-A36plus-Firmware/blob/main/A36plusBootloaderEn)
